@@ -1,10 +1,10 @@
 # Andreea Nedelcu
 
 ## 27 June 2025
-- Started the [Vue Js tutorials]("https://vuejs.org/tutorial/#step-1"), reached part 6. Learned about reactive variables, got accustomed to the flow of code and using directives.
+- Started the [Vue Js tutorial]("https://vuejs.org/tutorial/#step-1"), reached part 6. Learned about reactive variables, got accustomed to the flow of code and using directives.
 
 ## 28 June 2025
-- Completed the VueJS tutorial, which explored more advanced concepts such as lifecycle and parent-child component communication.
+- Completed the remaining parts of the VueJS tutorial, which explored more advanced concepts such as lifecycle and parent-child component communication.
 - Started the Tour of rust.
 
 ## 29 June 2025
